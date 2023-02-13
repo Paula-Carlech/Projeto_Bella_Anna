@@ -66,6 +66,10 @@ nav ul a{
     flex-direction: row;
 }
 
+nav ul a:hover{
+    color: #343b47;
+}
+
 nav ul a li{
     font-size: 20px;
     font-weight: bold;

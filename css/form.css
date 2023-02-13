@@ -33,4 +33,5 @@ button{
 .contato{
     margin-bottom: 10px;
     line-height: 25px;
+    font-weight: bold;
 }
